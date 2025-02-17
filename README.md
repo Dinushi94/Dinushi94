@@ -24,15 +24,15 @@ I am seeking an opportunity as an intern or in an entry-level position where I c
 - **BSc (Hons) in Software Engineering** – University of Plymouth  
 
 ### 🏆 Stack Overflow Profile  
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11343535/dinushi-dhananjani)  
+[![Stack Overflow](https://img.shields.io/badge/🧑‍💻%20STACK%20OVERFLOW-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11343535/dinushi-dhananjani)  
 
 ### 🏆 Ask Ubuntu Profile  
-[![Ask Ubuntu](https://img.shields.io/badge/Ask_Ubuntu-DD4814?style=for-the-badge&logo=ubuntu&logoColor=white)](https://askubuntu.com/users/1002618/dinushi-dhananjani)  
+[![Ask Ubuntu](https://img.shields.io/badge/🟠%20ASK%20UBUNTU-DD4814?style=for-the-badge&logo=ubuntu&logoColor=white)](https://askubuntu.com/users/1002618/dinushi-dhananjani)  
 
 ### 📞 Contact Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinushi-dhananjani-891b80192)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/🔗%20LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username)  
+[![GitHub](https://img.shields.io/badge/🖥️%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)  
+[![Email](https://img.shields.io/badge/📧%20EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
 
 ### 🎵 Now Playing on Spotify  
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-id)  
