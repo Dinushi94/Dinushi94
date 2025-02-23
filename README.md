@@ -1,8 +1,5 @@
 # Hi there, I'm Dinushi Dhananajani! 👋  
 
-## 🚀 About Me  
-I am seeking an opportunity as an intern or in an entry-level position where I can apply and develop my **DevOps** skills. I am passionate about **Linux, AWS, GitHub, Terraform, Docker, Kubernetes, Jenkins, and CI/CD pipelines**.
-
 ### 📊 GitHub Stats  
 ![Dinushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark)  
